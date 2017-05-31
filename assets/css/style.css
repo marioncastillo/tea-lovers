@@ -30,6 +30,7 @@ Código Hexadecimal gris footer: #3B3B3B
 /*secciones fondo de color*/
 .color{
 	background-color: #8ec641;
+	height: 600px;
 
 }
 /*Newsletter*/
@@ -94,7 +95,9 @@ Código Hexadecimal gris footer: #3B3B3B
 	background: url('../img/disfruta.jpg');
 	background-size: cover;
 	background-position: center;
-	padding: 50px;
+	padding: 50px 0;
+	
+	
 }
 
 /*Footer*/
@@ -102,4 +105,5 @@ footer{
 	background-color: #3b3b3b;
 	padding: 20px 30px;
 	color: white;
+	
 }
